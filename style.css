@@ -1,0 +1,18 @@
+div {padding: 20px 20px 20px 20px;
+border-top: dashed 5px red;
+border-bottom: dotted 5px blue;
+border-left: groove 5px green;
+border-right: ridge 5px purple;
+width: 300px;
+height: 300px;
+display: flex;
+flex-direction: column;
+}
+body{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+h1 {margin-bottom: 0px;
+}
